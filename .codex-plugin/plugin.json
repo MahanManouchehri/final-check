@@ -1,0 +1,18 @@
+{
+  "name": "final-check",
+  "version": "1.0.0",
+  "description": "Evidence-based final engineering audit for completed implementation tasks.",
+  "author": {
+    "name": "Mahan Manouchehri"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Final Check",
+    "shortDescription": "Verify work before declaring it complete.",
+    "longDescription": "Audits an implementation against its original requirements and reports an evidence-based PASS, PARTIAL, or FAIL verdict.",
+    "developerName": "Mahan Manouchehri",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Run a final check on the implementation before we call it complete."
+  }
+}
