@@ -5,6 +5,7 @@
   "author": {
     "name": "Mahan Manouchehri"
   },
+  "repository": "https://github.com/MahanManouchehri/final-check",
   "skills": "./skills/",
   "interface": {
     "displayName": "Final Check",

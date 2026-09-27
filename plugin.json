@@ -6,6 +6,7 @@
   "author": {
     "name": "Mahan Manouchehri"
   },
+  "repository": "https://github.com/MahanManouchehri/final-check",
   "license": "MIT",
   "keywords": ["engineering", "audit", "verification", "code-review"],
   "skills": "./skills/",
